@@ -15,5 +15,5 @@ _Data I have used in these projects are for demonstration process only._
 
 - Time Series Data Analysis
     - [Time Series introduction and visualization](https://github.com/surajk150741/Data_Science_Projects/tree/main/Time%20series%20Data%20Analysis/Introduction%20and%20visualization) : On a dataset of Starbucks, applied Resampling, Time-Shifting, Rolling, Expanding and visualized the behavior of data using histogram, bar plots, barh plots, line plots, scatter plots, box plot and hexbin plots. Also formatted the plots with various label and axis properties. 
-    - [Statsmodel Computation and Visualisation](https://github.com/surajk150741/Data_Science_Projects/tree/main/Time%20series%20Data%20Analysis/Statsmodel) : 
+    - [Statsmodel Computation and Visualisation](https://github.com/surajk150741/Data_Science_Projects/tree/main/Time%20series%20Data%20Analysis/Statsmodel) : On a dataset containing airline passengers data, performed ETS(Error, Trend, Seasonality) decomposition. Also 
     - [General Forecasting Models](https://github.com/surajk150741/Data_Science_Projects/tree/main/Time%20series%20Data%20Analysis/General%20Forecasting%20Models) 
