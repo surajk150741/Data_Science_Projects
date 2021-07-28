@@ -5,4 +5,9 @@ _Data I have used in these projects are for demonstration process only._
 
 ## Contents:
 - Machine Learninng
-    - Things to nest
+    - [Predicting Churn Analysis From a company](https://github.com/surajk150741/Data_Science_Projects/blob/main/Churn%20Analysis/Churn%20Analysis.ipynb) : A complete supervised machine learning modelling project which consists of Data Preprocessing, Data Evaluation, Model Selction, Model Evaluation, Model improvement, Future Predictions and Model deployment.
+    - [Segmentation of customers based on their buying behavior](https://github.com/surajk150741/Data_Science_Projects/blob/main/Churn%20Analysis/Churn%20Analysis.ipynb) : This project is about segmenting customers of a dataset that contains transactions from December 1st 2010 until December 9th 2011 for a UK-based online retail. This dataset is segmented into three clusters named Loyal, New and Churned customers. This helps retail companies to introduce appropriate rewards for the loyal customers and incentives for new customers. Clustered data with K-means algorithm and used the elbow method to determine the hyperparameter.
+    - [Forecasted Alcohol Sales for one year in future](https://github.com/surajk150741/Data_Science_Projects/blob/main/Time%20Series%20Forecasting/Keras_and_RNN(LSTM)_Project.ipynb) : It's a Forecasting Project in which a Time Series Dataset is used to predict the sales of alcohol for one year in the future. It's helpful to the Alcohol shopkeepers to keep track of their demand and supply for a year in advance. MinMaxScaler from Scikit-learn library, TimeseriesGenerator from Keras and model 'Sequencial' is used.
+
+- Data Analysis
+    - [Aise Kaise]
