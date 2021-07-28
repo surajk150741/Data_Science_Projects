@@ -14,4 +14,6 @@ _Data I have used in these projects are for demonstration process only._
     - [Updating Rows and columns, Sorting](https://github.com/surajk150741/Data_Science_Projects/tree/main/Stack%20Overflow%20Developer%20Survey%20Analysis) : Mapped and renamed columns, along with filtering the data with some constraints.
 
 - Time Series Data Analysis
-    - 
+    - [Time Series introduction and visualization](https://github.com/surajk150741/Data_Science_Projects/tree/main/Time%20series%20Data%20Analysis/Introduction%20and%20visualization)
+    - [Statsmodel Computation and Visualisation](https://github.com/surajk150741/Data_Science_Projects/tree/main/Time%20series%20Data%20Analysis/Statsmodel)
+    - [General Forecasting Models](https://github.com/surajk150741/Data_Science_Projects/tree/main/Time%20series%20Data%20Analysis/General%20Forecasting%20Models) 
